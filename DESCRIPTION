@@ -1,0 +1,16 @@
+Type: Package
+Package: jagsAddIn
+Title: Jags AddIn
+Version: 0.1.0
+Maintainer: The package maintainer <ngreen1@ic.ac.uk>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Author@R: person(\"Nathan\", \"Green\", , \"ngreen1@ic.ac.uk\",
+    c(\"aut\", \"cre\"), comment = c(ORCID = \"YOUR-ORCID-ID\"))
+Encoding: UTF-8
+LazyData: true
+Imports:
+    shiny,
+    miniUI,
+    rstudioapi

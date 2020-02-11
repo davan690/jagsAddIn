@@ -1,0 +1,4 @@
+Name: jagsAddIn
+Description: jags in R template
+Binding: jags_addin
+Interactive: true
