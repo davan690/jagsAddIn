@@ -3,7 +3,7 @@
 
 ---
 
-Feel free to install it from my Github via  
+Feel free to install it from my GitHub via  
 `devtools::install_github('n8thangreen/jagsAddIn')`.
 
 If you encounter any bugs, please report them as an 
